@@ -1,6 +1,6 @@
 ## 👋 Introduction 
 
-#### This wiki RESTful API supports of CRUD (Create, Read, Update, Delete) operations simulates wiki functions. 
+#### This wiki RESTful API supports CRUD (Create, Read, Update, Delete) operations simulates wiki functions. 
 
 
 
